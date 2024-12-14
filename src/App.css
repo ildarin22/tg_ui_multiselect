@@ -1,0 +1,12 @@
+/* 
+✨ CoonDev • http://dev.coonlink.fun/ 
+
+ ▄█▄    ████▄ ████▄    ▄   ██▄   ▄███▄      ▄  
+ █▀ ▀▄  █   █ █   █     █  █  █  █▀   ▀      █ 
+ █   ▀  █   █ █   █ ██   █ █   █ ██▄▄   █     █
+ █▄  ▄▀ ▀████ ▀████ █ █  █ █  █  █▄   ▄▀ █    █
+ ▀███▀              █  █ █ ███▀  ▀███▀    █  █ 
+                    █   ██                 █▐  
+                                           ▐   
+*/
+#root {max-width: 80rem;margin: 0 auto;padding: 2rem;text-align: center }[class*="tgui-"] {z-index: 9999 !important }.custom-multiselect-option {display: flex;align-items: center }.custom-multiselect-option img {margin-right: 1rem }.tgui-e9c83f4f150e5513 {pointer-events: auto }.logo {height: 6em;padding: 1.5em;will-change: filter;transition: filter 300ms }.logo:hover {filter: drop-shadow(0 0 2em #646cffaa) }.logo.react:hover {filter: drop-shadow(0 0 2em #61dafbaa) }@keyframes logo-spin {0% {transform: rotate(0deg) }100% {transform: rotate(360deg) }}@media (prefers-reduced-motion: no-preference) {a:nth-of-type(2) .logo {animation: logo-spin 20s linear infinite }}.card {padding: 2em }.read-the-docs {color: #888 }
